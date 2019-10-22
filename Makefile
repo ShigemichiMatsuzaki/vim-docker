@@ -1,5 +1,5 @@
 NAME=vim
-VERSION=8.1
+VERSION=latest
 CONTAINER_NAME=vim
 
 build : 
